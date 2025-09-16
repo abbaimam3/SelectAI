@@ -1,0 +1,24 @@
+Emeka Okonkwo
+Email: emeka.okonkwo@email.com
+Phone: +2348098765432
+
+Professional Summary
+Data analyst with 6 years of experience in data cleaning, visualization, and dashboarding. Proficient in Python (pandas), SQL, Excel, and PowerBI. Experience supporting program monitoring and evaluation.
+
+Experience
+Data Analyst — GrowthAid NGO (2019–2025)
+- Designed dashboards and reports to support donor reporting.
+Data Analyst — FinServe Ltd (2017–2019)
+- Automated data ingestion and cleaning pipelines.
+
+Education
+M.Sc. Statistics — University of Ibadan (2016–2018)
+B.Sc. Mathematics — University of Ibadan (2011–2015)
+
+Skills
+Python, pandas, SQL, PowerBI, Excel, Data Visualization, Statistical Analysis
+
+Certifications
+Microsoft Certified: Data Analyst Associate (2023)
+
+Assessment score (internal): 74
